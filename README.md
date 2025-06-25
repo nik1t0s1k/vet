@@ -1,3 +1,6 @@
+Проект по учебной практики на тему Ветеринарная клиника!
+Версия PHP 8.1 СУБД MariaDB 10.8 win10
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
